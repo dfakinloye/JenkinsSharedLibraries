@@ -1,2 +1,2 @@
 # JenkinsSharedLibraries
-Consolidating reusable codes.
+Consolidating reusable jenkins scripts.
