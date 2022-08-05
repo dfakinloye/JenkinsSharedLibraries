@@ -1,0 +1,2 @@
+# JenkinsSharedLibraries
+Consolidating reusable codes.
